@@ -22,4 +22,4 @@ CNN (Convolutional Neural Network)
 
 
 ## live Demo
-https://srii0784-image-tagging-project.hf.space/?__theme=system&deep_link=pQWAo1DGOz4
+https://srii0784-image-tagging-project.hf.space/?__theme=system&deep_link=eUiTTd2kRdU
